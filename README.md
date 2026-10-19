@@ -4,9 +4,9 @@ Official Pulse Era desktop installers. This repository contains published instal
 
 ## macOS Apple Silicon
 
-Version: 0.14.2. Requires an Apple Silicon Mac (arm64).
+Version: 0.14.3. Requires an Apple Silicon Mac (arm64).
 
-Download: https://github.com/PulseEra/pulse-releases/releases/download/v0.14.2/Pulse-0.14.2-macOS-arm64.dmg
+Download: https://github.com/PulseEra/pulse-releases/releases/download/v0.14.3/Pulse-0.14.3-macOS-arm64.dmg
 
 The installer is signed with Developer ID and notarized by Apple. Open the DMG, drag Pulse.app into Applications, then launch it normally. Updates are installed manually.
 
@@ -17,12 +17,12 @@ The DMG includes applicable software licenses and notices. Checksums are publish
 
 ## Windows x64
 
-Version: 0.14.2.
+Version: 0.14.3.
 
-Download: https://github.com/PulseEra/pulse-releases/releases/download/v0.14.2/Pulse-0.14.2-Windows-x64.exe
+Download: https://github.com/PulseEra/pulse-releases/releases/download/v0.14.3/Pulse-0.14.3-Windows-x64.exe
 
 Run the EXE to install Pulse Era for your Windows user account. Installation and updates are manual. This Windows installer is unsigned; Windows may show an unknown publisher warning. Claude requires Git for Windows with Git Bash: https://git-scm.com/install/windows
 
-SHA-256: `1651b3a73083df40f8e9741e2fb9445fb3543ba3f3d0cb4105af4903893a807e`
+SHA-256: `adc01ab6c8b89727ac92d00e9a7ca2d42f31e1540de5de5a4119621f76fbedd5`
 
-Size: 260,997,705 bytes. Windows checksum: https://github.com/PulseEra/pulse-releases/releases/download/v0.14.2/SHA256SUMS-Windows-x64.txt
+Size: 265,278,713 bytes. Windows checksum: https://github.com/PulseEra/pulse-releases/releases/download/v0.14.3/SHA256SUMS.txt
